@@ -32,7 +32,10 @@ const Cart = (props) => {
     const cartLength = cart.length;
 
     const luckyNum = Math.floor(Math.random() * cartLength);
-    console.log(luckyNum);
+
+    // const selectedItem = cart[luckyNum].name;
+
+    // console.log(...selectedItem);
 
     return (
         <div>
@@ -52,7 +55,7 @@ const Cart = (props) => {
             >
                 <button onClick={closeModal}>X</button>
                 <div>
-                    <h1>Your Lucky Item is: </h1>
+                    <h1>Your Lucky Item is:{ }</h1>
                 </div>
             </Modal>
         </div>
