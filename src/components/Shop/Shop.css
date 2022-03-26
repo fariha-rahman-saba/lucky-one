@@ -12,3 +12,9 @@
     background-color: aliceblue;
     padding: 20px;
 }
+
+@media screen and (max-width:1100px) {
+    .products-container{
+        grid-template-columns: repeat(1, 1fr);
+    }
+}

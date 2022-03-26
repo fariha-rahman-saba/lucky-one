@@ -1,74 +1,74 @@
 [
     {
         "id": 1,
-        "name": "Shelly Bullock",
+        "name": "Apple Watch SE",
         "image": "https://img.freepik.com/free-vector/smart-watch-realistic-image-black_1284-11873.jpg?w=740&t=st=1648273811~exp=1648274411~hmac=cfc08e4a2def097de6292e56b9713c275566bc5606a3959ce7374dceadf9ebea",
         "price": 500
     },
     {
         "id": 2,
-        "name": "Shelly Bullock",
+        "name": "Apple Watch 6",
         "image": "https://img.freepik.com/free-psd/realistic-smart-watch-mockup_165789-534.jpg?t=st=1648273710~exp=1648274310~hmac=24d6a4d16a0d41fd5fd199a32dbeb2c34cf3332be208d43d63bc31f7044ee27c&w=900",
-        "price": 500
+        "price": 800
     },
     {
         "id": 3,
-        "name": "Shelly",
+        "name": "Gucci 99S",
         "image": "https://img.freepik.com/free-photo/elegant-watch-with-silver-golden-chain-isolated_181624-27080.jpg?t=st=1648273710~exp=1648274310~hmac=de58c4463a9a8cf6461e2286dbe036ee6798f1cd521161967ca8fdea40bf0c96&w=740",
-        "price": 500
+        "price": 1000
     },
     {
         "id": 4,
-        "name": " Bullock",
+        "name": "Clock 101E",
         "image": "https://img.freepik.com/free-vector/wall-office-clock-with-black-red-hands-white-dial_1284-8992.jpg?t=st=1648273710~exp=1648274310~hmac=0ff2a477553c27d6a9e09f66f8a89b96c59cda337b57700e78f11fe55bd558ba&w=740",
-        "price": 500
+        "price": 100
     },
     {
         "id": 5,
-        "name": "Shly Bullock",
+        "name": "Amazefit Bip U",
         "image": "https://img.freepik.com/free-psd/smartwatch-mockup_125540-1277.jpg?t=st=1648273710~exp=1648274310~hmac=3c8fb2f344b2a0f42aad2fd8661e05dc0c3739ab16f6f2e0f06b0e20768880a4&w=1060",
-        "price": 500
+        "price": 150
     },
     {
         "id": 6,
-        "name": "Shelly Block",
+        "name": "Xiaomi Fitbit",
         "image": "https://img.freepik.com/free-psd/presentation-smartwatch-with-screen-mock-up_23-2148787546.jpg?t=st=1648273710~exp=1648274310~hmac=56276b6c1a88ca5b951af42e20e0542bd05661f779775806ab10ddd94e646680&w=826",
-        "price": 500
+        "price": 200
     },
     {
         "id": 7,
-        "name": "Shly Bullock",
+        "name": "Apple Watch 7 Gold",
         "image": "https://img.freepik.com/free-vector/white-smartwatch-background_1412-32.jpg?t=st=1648273710~exp=1648274310~hmac=73169faa85a69c47da1fd178e907414acb3154a5f066be13c7c676990f4e0569&w=740",
-        "price": 500
+        "price": 1200
     },
     {
         "id": 8,
-        "name": "Shelly Blck",
+        "name": "Alarm Clock Classic",
         "image": "https://img.freepik.com/free-photo/white-alarm-clock-wooden-textured-table-showing-10-oclock_23-2147943619.jpg?t=st=1648273710~exp=1648274310~hmac=6cfe7676f603e54b10174d9b9eaf68a37a9e75dfe914799f02f27ae6175a0a01&w=900",
-        "price": 500
+        "price": 99
     },
     {
         "id": 9,
-        "name": "Simages/watch_",
+        "name": "Alarm Clock Classic Blue",
         "image": "https://img.freepik.com/free-photo/blue-alarm-clock-white-background_1112-483.jpg?t=st=1648273710~exp=1648274310~hmac=940bed941a363f718a7f7d91b8857773812b4071e8f5fa255aad8e63c6ade444&w=900",
-        "price": 500
+        "price": 110
     },
     {
         "id": 10,
-        "name": "images/watch_().jpg",
+        "name": "Wrist watch 55m",
         "image": "https://img.freepik.com/free-photo/close-up-luxury-man-wrist-watches-placed-timber-brown-background_85778-23.jpg?w=900",
-        "price": 500
+        "price": 50
     },
     {
         "id": 11,
-        "name": "imagech_(5).jpg",
+        "name": "Wrist watch classic",
         "image": "https://img.freepik.com/free-vector/realistic-watch-clock-chronograph-steel-white-background_33869-739.jpg?w=360",
-        "price": 500
+        "price": 75
     },
     {
         "id": 12,
-        "name": "Shellock",
+        "name": "Haylu smartwatch",
         "image": "https://img.freepik.com/free-psd/smartwatch-mockup-three_23-2147862181.jpg?t=st=1648273710~exp=1648274310~hmac=427d37daa45508026fd5382659399eb1ead717c122c4cf2c32c00a84cea5ed10&w=1060",
-        "price": 500
+        "price": 30
     }
 ]

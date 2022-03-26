@@ -33,15 +33,15 @@ const Cart = (props) => {
 
     const luckyNum = Math.floor(Math.random() * cartLength);
 
-    // const selectedItem = cart[luckyNum].name;
+    const selectedItem = cart[luckyNum];
 
-    // console.log(...selectedItem);
+    console.log(selectedItem);
 
     return (
         <div>
             <h2>Selected Cloths</h2>
             {
-                cart.map(product => <p>{product.name}</p>)
+                cart.map(product => <h4>{product.name}</h4>)
             }
 
             <button className='choose-one' onClick={openModal}>CHOOSE 1 FOR ME</button>
