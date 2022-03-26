@@ -31,9 +31,9 @@ const Cart = (props) => {
 
     const cartLength = cart.length;
 
-    const luckyNum = Math.floor(Math.random() * cartLength + 1);
+    const luckyNum = Math.floor(Math.random() * cartLength);
 
-    console.log(cart.luckyNum);
+    console.log("lucky number: ", luckyNum);
 
     return (
         <div>
