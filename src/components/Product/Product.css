@@ -1,10 +1,10 @@
-button{
+.cart-btn{
     background-color: #FFE0B3;
     width: 100%;
     border: none;
     padding: 10px;
 }
-button:hover{
+.cart-btn:hover{
     background-color: orange;
     cursor: pointer;
 }
