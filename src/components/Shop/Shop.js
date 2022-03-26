@@ -3,9 +3,13 @@ import Cart from '../Cart/Cart';
 import Product from '../Product/Product';
 import './Shop.css'
 
+
 const Shop = () => {
+
     const [products, setProducts] = useState([]);
     const [cart, setCart] = useState([]);
+
+
     useEffect(() => {
         fetch('data.json')
             .then(res => res.json())
@@ -29,6 +33,7 @@ const Shop = () => {
             <div className="cart-container">
                 <Cart cart={cart}></Cart>
             </div>
+
         </div>
     );
 };
