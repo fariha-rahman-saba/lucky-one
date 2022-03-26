@@ -1,3 +1,3 @@
 # lucky-one
 
-### live website link: 
+### live website link: https://lucky-shop.netlify.app/
